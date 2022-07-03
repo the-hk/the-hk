@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[![website](<img align="left" alt="linkedin" width="26px" src="./img/linkedin.png")](https://www.linkedin.com/in/hamzakarakus/#gh-dark-mode-only)
-[![website](<img align="left" alt="linkedin" width="26px" src="./img/linkedin.png")](https://www.linkedin.com/in/hamzakarakus/#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/hamzakarakus/#gh-dark-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hamzakarakus/#gh-light-mode-only)
 &nbsp;&nbsp;
 
 ### Technical Skills and Tools:
