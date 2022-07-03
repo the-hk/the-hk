@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin.png)](https://www.linkedin.com/in/hamzakarakus/#gh-light-mode-only)
+[![website](./img/linkedin.png)](https://www.linkedin.com/in/hamzakarakus/#gh-dark-mode-only)
 [![website](./img/linkedin.png)](https://www.linkedin.com/in/hamzakarakus/#gh-light-mode-only)
 &nbsp;&nbsp;
 
